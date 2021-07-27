@@ -1,3 +1,4 @@
 Hii this is file1.
 Hello world.
 I am typing in notepad.
+I have a dog.

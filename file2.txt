@@ -1,3 +1,4 @@
 Hii this is file2.
 Hello India.
 I am typing in Notepad.
+I have a Cat.
